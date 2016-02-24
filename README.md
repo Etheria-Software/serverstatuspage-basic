@@ -1,0 +1,1 @@
+# serverstatuspage-basic
